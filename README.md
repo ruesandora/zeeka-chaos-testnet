@@ -26,6 +26,7 @@
 
 ## Kurulum
 ```
+sudo apt-get update && sudo apt-get upgrade
 sudo apt install -y build-essential libssl-dev cmake
 ```
 ```
