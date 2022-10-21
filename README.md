@@ -26,6 +26,9 @@
 
 ## Kurulum
 ```
+sudo su
+```
+```
 sudo apt-get update && sudo apt-get upgrade
 ```
 ```
