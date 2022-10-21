@@ -79,9 +79,8 @@ screen -S bazuka
  * İkinci kısım `--discord-handle "rues#1234"` discordunuzu girin, zeeka'nın discordunda olduğunuzdan emin olun.
 
 ```
-bazuka node --listen 0.0.0.0:8765 --external 123.123.123:8765 \
-  --network chaos --db ~/.bazuka-chaos --bootstrap 152.228.155.120:8765 \
-  --discord-handle "rues#1234"
+bazuka node --listen 0.0.0.0:8765 --external IP ADRESİNİZ:8765  --network chaos --db ~/.bazuka-chaos --bootstrap 144.91.101.166:8765 --bootstrap 45.67.228.84:8765 --bootstrap 152.228.155.120:8765 --bootstrap 80.87.202.42:8765 --bootstrap 148.251.1.124:8765 \
+--discord-handle "rues"
 ```
 
 ## Daha sonra görselde ki gibi çıktı alacaksınız:
